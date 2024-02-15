@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagar6455
+- 👋 Hi, I’m @Sagar
 - 👀 I’m interested in Web Designing.
 - 🌱 I’m currently learning AngularJS.
 - 📫 sagarautade5020@gmail.com
