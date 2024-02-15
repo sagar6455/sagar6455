@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar6455
 - 👀 I’m interested in Web Designing.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning AngularJS.
 - 📫 sagarautade5020@gmail.com
 
 <!---
